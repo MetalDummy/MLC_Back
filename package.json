@@ -1,0 +1,16 @@
+{
+  "name": "mlchallenge_back_oscar_casallas",
+  "version": "1.0.0",
+  "description": "API para consulta de productos a MercadoLibre",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Andrés Casallas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
